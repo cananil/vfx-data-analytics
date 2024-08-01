@@ -1,0 +1,10 @@
+.build
+.deploy_ignore
+.project
+.pydevproject
+*.pyc
+*.swp
+*.*~
+.settings
+dafrontend.log
+config.pyc
